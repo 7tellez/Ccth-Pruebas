@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.8.2)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.3.0)
+  - TweeTextField (1.6.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.0)
+  - SQLite.swift (~> 0.12.0)
+  - SVProgressHUD
+  - SwiftyJSON (~> 4.0)
+  - TweeTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SQLite.swift
+    - SVProgressHUD
+    - SwiftyJSON
+    - TweeTextField
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TweeTextField: 47bf8e7f0433364a7f7e119c45e7f278ea50eb62
+
+PODFILE CHECKSUM: 807bdb94e081838c42427e178c6985ecb5d15e50
+
+COCOAPODS: 1.10.0
